@@ -1,1 +1,1 @@
-# Thala-for-a-reason
+# I am a big fan of MSD . And right now some memes are going viral where  peeople are calculating some random numbers to 7  which is MSD's jersey number . So I created a web app where you can give some random numbers and it will calculate  to 7 but if calculating to 7 is not possible then it will give output as "Thala ko pasand nahi aya"
